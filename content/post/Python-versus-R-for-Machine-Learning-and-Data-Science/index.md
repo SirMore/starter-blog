@@ -126,7 +126,7 @@ When you need to do heavy statistical analysis or graphing, R’s your go-to. Co
     - [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8), [plyr](https://www.rdocumentation.org/packages/plyr/versions/1.8.6) and [data.table](https://www.rdocumentation.org/packages/data.table/versions/1.14.0) to easily manipulate packages,
     - [stringr](https://www.rdocumentation.org/packages/stringr/versions/1.4.0) to manipulate strings,
     - [zoo](https://www.rdocumentation.org/packages/zoo/versions/1.8-8) to work with regular and irregular time series,
-    - [ggvis](https://www.rdocumentation.org/packages/ggvis/versions/0.4.7), [lattice](https://www.rdocumentation.org/packages/lattice/versions/0.20-41), and pggplot2](https://www.rdocumentation.org/packages/ggplot2/versions/3.3.3) to visualize data, and
+    - [ggvis](https://www.rdocumentation.org/packages/ggvis/versions/0.4.7), [lattice](https://www.rdocumentation.org/packages/lattice/versions/0.20-41), and [pggplot2](https://www.rdocumentation.org/packages/ggplot2/versions/3.3.3) to visualize data, and
     - [caret](https://www.rdocumentation.org/packages/caret/versions/6.0-86) for machine learning
 
 

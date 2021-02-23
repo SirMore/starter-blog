@@ -12,3 +12,9 @@
   name = "About"
   url = "about/"
   weight = 20
+
+
+[[main]]
+  name = "Webpage"
+  url = "https://eehoward.netlify.app/"
+  weight = 30
