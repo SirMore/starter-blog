@@ -143,7 +143,7 @@ When you need to do heavy statistical analysis or graphing, R’s your go-to. Co
 
 So, both the languages are equally good. Therefore, depending upon your domain and the place you work, you have to smartly choose the right language. The technology world usually prefers using a single language. Business users (marketing analytics, retail analytics) usually go with statistical programming languages like R, since they frequently do quick prototyping and build visualizations (which is faster done in R than Python). 
 
-<span style="color:red">*This is Blue italic.*</span>
+
 
 [1]: https://blog.udacity.com/2015/01/python-vs-r-learn-first.html "python vs R"
 [2]: http://blog.udacity.com/2015/01/python-vs-r-learn-first.html/ "Python vs R"
