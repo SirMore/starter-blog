@@ -1,25 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evans Etrue Howard
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in Information and Communication Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of L'Aquila
+  url: http://phdict.disim.univaq.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network optimization models for emergency evacuation planning.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Dynamic Evacuation Models
+- Artificial Intelligence
+- Information Retrieval
+- Network Optimization
+- (Robust) Combinatorial Optimisation
+- Social Network Analysis
+- Mixed Linear Integer Programming
+- Big Data Analytics and Mining
+- Discrete Optimization
+- Bayesian Optimization
 
 #education:
 #  courses:
@@ -43,10 +51,13 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SMore_eehoward
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SirMore
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/evans-etrue-howard-a1228058/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,9 +65,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "eva.etruehoward@gmail.com"
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Evans Etrue Howard is a PhD Candidate in  Information and Communication Technology at University of L'Aquila.  My research interests include dynamic evacuation model, dealing with the exact solution, as well as finding heuristics to problems which are somehow difficult to solve using the exact procedures and  simulation of evacuation processes as well.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is very interested in researching into network optimization models especially ones geared towards emergency evacuation either pre- or post - disaster. 
